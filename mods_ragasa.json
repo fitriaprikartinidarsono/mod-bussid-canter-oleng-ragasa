@@ -1,0 +1,120 @@
+{
+  "base_url": "https://cdn.jsdelivr.net/gh/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa@main/",
+  "categories": [
+    "Ragasa"
+  ],
+  "mods": [
+    {
+      "id": "rg001",
+      "title": "Ragasa Box Long Chassis",
+      "category": "Ragasa",
+      "preview_image": "ragasa/Ragasa-Box-Long-Chassis.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Ragasa-Box-Long-Chassis.bussidmod"
+    },
+    {
+      "id": "rg002",
+      "title": "Ragasa Canter Box",
+      "category": "Ragasa",
+      "preview_image": "ragasa/Canter-Box-Long-Chassis.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Canter-Box-Long-Chassis.bussidmod"
+    },
+    {
+      "id": "rg003",
+      "title": "Ragasa Isuzu NMR71 Box",
+      "category": "Ragasa",
+      "preview_image": "ragasa/Isuzu-NMR71-Box-Long-Chassis.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Isuzu-NMR71-Box-Long-Chassis.bussidmod"
+    },
+    {
+      "id": "rg004",
+      "title": "Ragasa Hino Dutro Box",
+      "category": "Ragasa",
+      "preview_image": "ragasa/Hino-Dutro-Box-Long-Chassis.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Hino-Dutro-Box-Long-Chassis.bussidmod"
+    },
+    {
+      "id": "rg005",
+      "title": "Ragasa Canter HD-L Sumatra",
+      "category": "Ragasa",
+      "preview_image": "ragasa/Canter-HD-L-Sumatra-Long-Chassis.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Canter-HD-L-Sumatra-Long-Chassis.bussidmod"
+    },
+    {
+      "id": "rg006",
+      "title": "Ragasa Canter Sumatra",
+      "category": "Ragasa",
+      "preview_image": "ragasa/Canter-Sumatra-Long-Chassis.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Canter-Sumatra-Long-Chassis.bussidmod"
+    },
+    {
+      "id": "rg007",
+      "title": "Ragasa Canter Sulawesi ARC",
+      "category": "Ragasa",
+      "preview_image": "ragasa/Canter-Sulawesi-ARC.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Canter-Sulawesi-ARC.bussidmod"
+    },
+    {
+      "id": "rg008",
+      "title": "Ragasa Isuzu NKR71 Gayor",
+      "category": "Ragasa",
+      "preview_image": "ragasa/Isuzu-NKR71-Terpal-Gayor.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Isuzu-NKR71-Terpal-Gayor.bussidmod"
+    },
+    {
+      "id": "rg009",
+      "title": "Ragasa Canter Dump",
+      "category": "Ragasa",
+      "preview_image": "ragasa/Canter-Dump-Long-Chassis.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Canter-Dump-Long-Chassis.bussidmod"
+    },
+    {
+      "id": "rg010",
+      "title": "Ragasa Canter HDL 02",
+      "category": "Ragasa",
+      "preview_image": "ragasa/Canter-HDL-02-Long-Chassis.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Canter-HDL-02-Long-Chassis.bussidmod"
+    },
+    {
+      "id": "rg011",
+      "title": "Ragasa Canter Dump Kalimantan",
+      "category": "Ragasa",
+      "preview_image": "ragasa/Mod-Canter-Dump-Kalimantan.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Mod-Canter-Dump-Kalimantan.bussidmod"
+    },
+    {
+      "id": "rg012",
+      "title": "Ragasa Fuso Kalimantan Peti Kemas",
+      "category": "Ragasa",
+      "preview_image": "ragasa/Truck-Fuso-Kalimantan-Muat-Peti-Kemas.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Truck-Fuso-Kalimantan-Muat-Peti-Kemas.bussidmod"
+    },
+    {
+      "id": "rg013",
+      "title": "Ragasa Fuso Kalimantan Muatan Ban",
+      "category": "Ragasa",
+      "preview_image": "ragasa/Mod-Fuso-Kalimantan-Muatan-Ban.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Mod-Fuso-Kalimantan-Muatan-Ban.bussidmod"
+    },
+    {
+      "id": "rg014",
+      "title": "Ragasa C47 Fuso SG Oklay",
+      "category": "Ragasa",
+      "preview_image": "ragasa/C47-Fuso-SG-Oklay.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/C47-Fuso-SG-Oklay.bussidmod"
+    },
+    {
+      "id": "rg015",
+      "title": "Ragasa Fuso Kanaya Putri Muat Sapi",
+      "category": "Ragasa",
+      "preview_image": "ragasa/Fuso-Kanaya-Putri-Muat-Sapi.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Fuso-Kanaya-Putri-Muat-Sapi.bussidmod"
+    },
+    {
+      "id": "rg016",
+      "title": "Ragasa Fuso Trailer Beton",
+      "category": "Ragasa",
+      "preview_image": "ragasa/Fuso-FN-Trailer-Beton.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Fuso-FN-Trailer-Beton.bussidmod"
+    }
+  ]
+}

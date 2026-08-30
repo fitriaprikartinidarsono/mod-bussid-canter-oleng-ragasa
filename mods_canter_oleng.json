@@ -1,0 +1,113 @@
+{
+  "base_url": "https://cdn.jsdelivr.net/gh/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa@main/",
+  "categories": [
+    "Canter Oleng"
+  ],
+  "mods": [
+    {
+      "id": "co001",
+      "title": "Canter Oleng Kontes Sujana",
+      "category": "Canter Oleng",
+      "preview_image": "canter-oleng/Truck-Canter-Kontes-Sujana.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Truck-Canter-Kontes-Sujana.bussidmod"
+    },
+    {
+      "id": "co002",
+      "title": "Canter Oleng SL Jaya JSK",
+      "category": "Canter Oleng",
+      "preview_image": "canter-oleng/Mod-Canter-Herex-SL-Jaya-JSK.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Mod-Canter-Herex-SL-Jaya-JSK.bussidmod"
+    },
+    {
+      "id": "co003",
+      "title": "Canter Oleng Tawakal Reborn",
+      "category": "Canter Oleng",
+      "preview_image": "canter-oleng/Mod-Canter-New-Tawakal-Reborn.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Mod-Canter-New-Tawakal-Reborn.bussidmod"
+    },
+    {
+      "id": "co004",
+      "title": "Canter Oleng Custom Budesign 11",
+      "category": "Canter Oleng",
+      "preview_image": "canter-oleng/Truck-Canter-Custom-11-by-Budesign.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Truck-Canter-Custom-11-by-Budesign.bussidmod"
+    },
+    {
+      "id": "co005",
+      "title": "Canter Oleng Custom Budesign 12",
+      "category": "Canter Oleng",
+      "preview_image": "canter-oleng/Truk-Canter-Custom-12-by-Budesign.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Truk-Canter-Custom-12-by-Budesign.bussidmod"
+    },
+    {
+      "id": "co006",
+      "title": "Canter Oleng N7 Modif Kece",
+      "category": "Canter Oleng",
+      "preview_image": "canter-oleng/Truck-Canter-N7-Modif-Kece.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Truck-Canter-N7-Modif-Kece.bussidmod"
+    },
+    {
+      "id": "co007",
+      "title": "Canter Oleng JB3 Mbois",
+      "category": "Canter Oleng",
+      "preview_image": "canter-oleng/Truck-Canter-JB3-Mbois.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Truck-Canter-JB3-Mbois.bussidmod"
+    },
+    {
+      "id": "co008",
+      "title": "Canter Oleng SRX Mbois",
+      "category": "Canter Oleng",
+      "preview_image": "canter-oleng/Canter-SRX-Livery-Mbois.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Canter-SRX-Livery-Mbois.bussidmod"
+    },
+    {
+      "id": "co009",
+      "title": "Canter Oleng Herex Stenlisan",
+      "category": "Canter Oleng",
+      "preview_image": "canter-oleng/Canter-Herex-Stenlisan.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Canter-Herex-Stenlisan.bussidmod"
+    },
+    {
+      "id": "co010",
+      "title": "Canter Oleng Republik Gabah",
+      "category": "Canter Oleng",
+      "preview_image": "canter-oleng/Truk-Canter-Republik-Gabah.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Truk-Canter-Republik-Gabah.bussidmod"
+    },
+    {
+      "id": "co011",
+      "title": "Canter Oleng BKJ Ayam Kampus",
+      "category": "Canter Oleng",
+      "preview_image": "canter-oleng/Mod-Truck-Canter-Ayam-Kampus-BKJ.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Mod-Truck-Canter-Ayam-Kampus-BKJ.bussidmod"
+    },
+    {
+      "id": "co012",
+      "title": "Canter Oleng Public Figure",
+      "category": "Canter Oleng",
+      "preview_image": "canter-oleng/Canter-Public-Figure-Kontes.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Canter-Public-Figure-Kontes.bussidmod"
+    },
+    {
+      "id": "co013",
+      "title": "Canter Oleng Explorer Racing",
+      "category": "Canter Oleng",
+      "preview_image": "canter-oleng/Truck-Canter-Explorer-Racing-1536x864.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Truck-Canter-Explorer-Racing-1536x864.bussidmod"
+    },
+    {
+      "id": "co014",
+      "title": "Canter Oleng Anti Gosip Patriot",
+      "category": "Canter Oleng",
+      "preview_image": "canter-oleng/Mod-Canter-Anti-Gosip-Bemper-Patriot.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Mod-Canter-Anti-Gosip-Bemper-Patriot.bussidmod"
+    },
+    {
+      "id": "co015",
+      "title": "Canter Oleng Black Team Fauzi Ardant",
+      "category": "Canter Oleng",
+      "preview_image": "canter-oleng/Truck-Canter-Black-Team-Fauzi-Ardant.webp",
+      "mod_file": "https://github.com/fitriaprikartinidarsono/mod-bussid-canter-oleng-ragasa/releases/download/0.1/Truck-Canter-Black-Team-Fauzi-Ardant.bussidmod"
+    }
+  ]
+}
